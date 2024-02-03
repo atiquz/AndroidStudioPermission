@@ -24,7 +24,7 @@ Follow these instructions to get a copy of the project and run it on your local 
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/android-studio-permission.git
+    git clone https://github.com/atiquz/android-studio-permission.git
     ```
 
 2. Open the project in Android Studio.
