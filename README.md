@@ -51,7 +51,7 @@ Include screenshots of your application to give users a visual representation.
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please [create an issue](https://github.com/atiquz/androidstudiopermission/issues) or open a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvement, please [create an issue](https://github.com/atiquz/AndroidStudioPermission/issues) or open a pull request.
 
 ## License
 
