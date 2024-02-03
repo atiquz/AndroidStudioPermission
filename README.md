@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for your Android Studio Permission project on GitHub:
-
----
-
 # Android Studio Permission
 
 ## Overview
