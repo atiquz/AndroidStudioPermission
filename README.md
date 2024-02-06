@@ -52,10 +52,6 @@ Give credit or mention any external libraries, resources, or tutorials that you 
 
 Md Atiquz Zaman
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
 ## Issues
 
 If you encounter any issues or have suggestions, please [create an issue](https://github.com/atiquz/AndroidStudioPermission.git/issues).
