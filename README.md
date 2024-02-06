@@ -54,6 +54,6 @@ Md Atiquz Zaman
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [create an issue](https://github.com/atiquz/AndroidStudioPermission.git/issues).
+If you encounter any issues or have suggestions, please [create an issue](https://github.com/atiquz/AndroidStudioPermission/issues).
 
 Happy coding!
