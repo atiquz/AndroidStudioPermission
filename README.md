@@ -1,67 +1,63 @@
-# Android Studio Permission
+# Android Studio Runtime Permission Example
+
+This example project demonstrates the implementation of runtime permissions in an Android application using Android Studio. The project focuses on handling the runtime permission for accessing external storage.
 
 ## Overview
 
-This Android Studio project demonstrates how to request and handle runtime permissions in an Android application, specifically focusing on the READ_EXTERNAL_STORAGE permission. The project includes a simple user interface with a button that, when clicked, checks whether the permission is already granted. If not, it prompts the user for permission.
+The main purpose of this Android application is to showcase how to request and handle runtime permissions, specifically for reading external storage. The user is prompted to grant the necessary permission for the app to function correctly. Additionally, the project includes handling scenarios where the user denies the permission and how to guide them to the app settings to grant the required permission.
 
-## Features
+## Implementation
 
-- Runtime permission handling for READ_EXTERNAL_STORAGE
-- User-friendly explanation dialog for permission request
-- Toast messages to indicate permission status
+The key components of the project include:
 
-## Getting Started
+- **MainActivity.java**: The main activity of the application containing the logic for requesting and handling runtime permissions.
 
-Follow these instructions to get a copy of the project and run it on your local machine for development and testing purposes.
+- **activity_main.xml**: The layout file defining the UI components, including a button that triggers the permission request.
 
-### Prerequisites
+## How to Use
 
-- Android Studio installed on your machine
-- A device or emulator running Android OS
+1. Clone the repository:
 
-### Installation
-
-1. Clone the repository to your local machine.
-
-    ```bash
-    git clone https://github.com/atiquz/AndroidStudioPermission.git
-    ```
+   ```bash
+   git clone https://github.com/atiquz/AndroidStudioPermission.git
+   ```
 
 2. Open the project in Android Studio.
 
-3. Connect your device or start an emulator.
+3. Run the application on an emulator or a physical device.
 
-4. Build and run the project.
+4. Click the "Request Permission" button to initiate the runtime permission request process.
 
-## Usage
-
-1. Launch the application on your device or emulator.
-
-2. Click the "Request Permission" button.
-
-3. If the permission is already granted, a toast message will appear. Otherwise, a dialog will prompt you to grant the permission.
-
-4. Accept or deny the permission request.
-
-5. Appropriate toast messages will indicate whether the permission was granted or denied.
+5. Follow the on-screen instructions to either grant or deny the required storage permission.
 
 ## Screenshots
 
-Include screenshots of your application to give users a visual representation.
+Include screenshots or GIFs demonstrating the app's functionality and the permission request process.
 
-## Contributing
+## Note
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please [create an issue](https://github.com/atiquz/AndroidStudioPermission/issues) or open a pull request.
+Make sure to customize the package name, app name, and any other details according to your project requirements.
+
+Feel free to explore, modify, and integrate this runtime permission example into your Android projects.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- [Android Developers Documentation](https://developer.android.com/guide/topics/permissions/overview)
-- [Open Source Licenses](https://source.android.com/setup/start/licenses)
+Give credit or mention any external libraries, resources, or tutorials that you used or found helpful during the development of this example.
 
----
+## Author
 
-Feel free to customize this template according to your project's specifics. Provide more details if needed and update the sections accordingly.
+Md Atiquz Zaman
+
+## Contributing
+
+If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+
+## Issues
+
+If you encounter any issues or have suggestions, please [create an issue](https://github.com/atiquz/AndroidStudioPermission.git/issues).
+
+Happy coding!
